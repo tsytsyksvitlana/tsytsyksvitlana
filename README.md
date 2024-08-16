@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Python+Backend+Developer+%7C+1+Year+of+Experience+%7C+Passionate+About+Code)](https://git.io/typing-svg)
 
-### 📝 » Hi there! I'm a Python developer with a year of experience, eager to contribute to a dynamic team. I specialize in creating robust backend solutions and enjoy collaborating with others to build innovative and high-quality software.
+### 📝 » Hi there! I'm a Python developer with a year of experience, eager to contribute to a dynamic team. I specialize in creating modern backend solutions and enjoy collaborating with others to build innovative and high-quality software.
 
 🚀 Ready to bring my passion for coding and problem-solving to your team and help craft exceptional solutions!
 
